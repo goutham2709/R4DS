@@ -1,0 +1,22 @@
+---
+title: "R4DS"
+author: "Goutham"
+date: "10/16/2019"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# R4DS practise and answers to questions from "R for Data Science" - Hadlye Wickham
+
+## 3. Data Visualization
+
+```{r Package installation}
+#install.packages(c("nycflights13", "gapminder", "Lahman"))
+#install.packages("tidyverse")
+```
+
