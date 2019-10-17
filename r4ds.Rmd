@@ -445,5 +445,5 @@ ggplot(data = mpg, mapping = aes(x = cty, y = hwy)) +
 ?coord_fixed
 ?geom_abline
 ```
-geom_abline adds a reference line. coord_fixed makes the ratio of units on the both the axes equal to 1. It is basically used to manipulate the aspect ratio of the plots.
+geom_abline adds a reference line. coord_fixed makes the ratio of units on the both the axes equal to 1. It is basically used to manipulate the aspect ratio of the axes.
 
